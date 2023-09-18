@@ -3,7 +3,7 @@ i = 0
 minn =60
 os.system("cls")
 os.system("color a")
-print("計時開始")
+print("計時開始!")
 while True:
     i += 1
     if i % minn == 0:
